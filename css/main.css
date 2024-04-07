@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainSection{
+    width:1000px;
+    border:solid lightgray 1px;
+    margin: 50px auto;
+}
+.aboveSection{
+    margin:5px auto;
+
+    width:100%;
+    float: left;
+}
+.lowerSection{
+    margin:5px auto;
+
+    width:100%;
+    float: left;
+
+}
+.section1{
+    margin: 5px;
+    float: left;
+    width:24%;
+    border:solid lightgrey 1px;
+    box-sizing: border-box;
+}
+.section2{
+    margin: 5px;
+    float: left;
+    width:24%;
+    border:solid lightgrey 1px;
+    box-sizing: border-box;
+}
+img{
+   margin: 5px 35px;
+    width:70%;
+}
+
+.btn1Bag i{
+    color:white;
+    display: inline-block;
+}
+.clearfix{
+    clear: left;
+}
+.price1{
+    color:red;
+    font-size: 14px;
+}
+.price2{
+color:green;
+
+}
+.btnlabel{
+    color:white;
+}
+.description{
+    color:gray;
+    margin: 5px;
+}
+
+.btn1Bag{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    padding: 10px 30px;
+    background-color:deepskyblue;
+    border:solid deepskyblue 1px;
+}
+.btn2Loved{
+    color:deepskyblue;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color:white;
+    border:solid deepskyblue 1px;
+}
+.section1 h2,span{
+    margin:5px;
+}
+.section2 h2,span{
+    margin:5px;
+}
+h1{
+    margin-bottom: 20px;
+    margin-top:5px;
+    margin-left: 5px;
+}
